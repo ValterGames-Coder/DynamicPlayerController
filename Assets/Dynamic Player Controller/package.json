@@ -1,0 +1,10 @@
+{
+  "name": "com.valtergames.dynamicplayercontroller",
+  "version": "1.0.0",
+  "displayName": "Dynamic Player Controller",
+  "dependencies": {
+    "com.unity.inputsystem": "1.11.2"
+  },
+  "description": "Easy Dynamic Player Controller for games",
+  "author": "ValterGames"
+}
